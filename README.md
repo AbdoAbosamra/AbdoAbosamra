@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://i.postimg.cc/sx83mRcZ/A.png">
+<img width="150" align="right" src="https://i.postimg.cc/sx83mRcZ/A.png">
 
 <h3 align="center">
   Welcome to Abdelrhman Abosamra's profile!
