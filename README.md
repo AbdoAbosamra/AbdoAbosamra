@@ -12,8 +12,7 @@
 </p> 
 
 - 🏢 I'm a Fersh Graduated Back-end developer
-- 👨‍💻 As a CS Grad, I'm constantly learning and exploring new technologies<br> 
-      to improve my skills.
+- 👨‍💻 As a CS Grad, I'm constantly learning and exploring new technologiesto improve my skills.
 - 💬 Ask me about my experience with JavaScript, Python, and Django, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
