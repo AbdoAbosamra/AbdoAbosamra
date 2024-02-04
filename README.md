@@ -37,8 +37,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20-05122A?style=flat&logo=postgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+![GrahQL](https://img.shields.io/badge/-GrahQL-05122A?style=flat&logo=GrahQL)&nbsp;
+![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=Composer)&nbsp;
 
 
 
