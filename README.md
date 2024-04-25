@@ -1,5 +1,4 @@
 
-<img width="150" align="right" src="https://i.postimg.cc/133S3WXt/Designer-4.png">
 
 
 <h1 align="center">
