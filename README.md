@@ -33,8 +33,8 @@
  
 🛠 &nbsp;Tech Stack<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,vscode,github,phpstorm,tailwind,git,postgres,anaconda,graphql" />
-    <img src="https://skillicons.dev/icons?i=django,python,javascript,restapi,sqlite,mongodb,c,cpp,postman,mysql,flask,docker,bash,linux,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,vscode,github,phpstorm,tailwind,git,postgres,anaconda,graphql,gitlab" />
+    <img src="https://skillicons.dev/icons?i=django,python,javascript,sqlite,mongodb,c,cpp,postman,mysql,flask,docker,bash,linux,wordpress" /><br>
 </div>
 
 <br/>
