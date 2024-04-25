@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdelrhman+Abosamra!;" />
 </h1>
-<a href="https://komarev.com/ghpvc/?username=AbdoAbosamra&style=for-the-badge">
+<a align="right"  href="https://komarev.com/ghpvc/?username=AbdoAbosamra&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AbdoAbosamra&style=for-the-badge">
 </a>
 
@@ -59,7 +59,4 @@
 <br/>
 
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AbdoAbosamra&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <a href="https://komarev.com/ghpvc/?username=AbdoAbosamra&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AbdoAbosamra&style=for-the-badge">
-</a>
 </div><br>
