@@ -7,7 +7,7 @@
     <img  align="right" src="https://komarev.com/ghpvc/?username=AbdoAbosamra&style=for-the-badge">
 
 
-<h3 align="center">PHP Backend developer</h3>
+<h3 align="center">PHP Backend Developer</h3>
 
 
 <div>
