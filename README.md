@@ -13,7 +13,7 @@
 <li>- 🏢 I'm a Fersh Graduated Back-end developer</li>
 <li>- 👨‍💻 As a CS Grad, I'm constantly learning and exploring new technologies to improve my skills.</li>
 <li>- 💬 Ask me about my experience with PHP, Laravel, JavaScript, Python, and Django, or anything related to web development.</li>
-<li>- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.</li>s
+<li>- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.</li>
     </ul>
  </div>
  
@@ -40,15 +40,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
