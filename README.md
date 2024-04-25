@@ -8,12 +8,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">PHP Backend developer</h3>
 
 <br/>
 
-<div align="center">
- - 🏢 I'm a Fersh Graduated Back-end developer
+<div align="left">
+- 🏢 I'm a Fersh Graduated Back-end developer
 - 👨‍💻 As a CS Grad, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel, JavaScript, Python, and Django, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
