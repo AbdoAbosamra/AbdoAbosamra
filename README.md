@@ -33,7 +33,7 @@
  
 🛠 &nbsp;Tech Stack<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,vscode,github,phpstorm,tailwind,git,composer ,anaconda ,graphqls" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,vscode,github,phpstorm,tailwind,git,postgres,anaconda,graphql" />
     <img src="https://skillicons.dev/icons?i=django,python,javascript,restapi,sqlite,mongodb,c,cpp,postman,mysql,flask,docker,bash,linux,wordpress" /><br>
 </div>
 
