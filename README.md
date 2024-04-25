@@ -31,11 +31,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+🛠 &nbsp;Tech Stack<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,larvel,html,css,vscode,github,phpstorm,tailwind,git,composer" />
+    <img src="https://skillicons.dev/icons?i=django,python,javascript,restapi,sqlite,mongodb,c,c++,postman,mysql,flask" /><br>
 </div>
 
 <br/>
