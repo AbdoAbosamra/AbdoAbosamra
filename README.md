@@ -12,7 +12,7 @@
 
 <br/>
 
-<div align="left">
+<div>
 - 🏢 I'm a Fersh Graduated Back-end developer
 - 👨‍💻 As a CS Grad, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel, JavaScript, Python, and Django, or anything related to web development.
