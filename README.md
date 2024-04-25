@@ -13,15 +13,10 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+ - 🏢 I'm a Fersh Graduated Back-end developer
+- 👨‍💻 As a CS Grad, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with PHP, Laravel, JavaScript, Python, and Django, or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
  </div>
  
 <div align="center"> 
